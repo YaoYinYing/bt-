@@ -1,4 +1,6 @@
 # 宝塔专业版
+![mit.svg](https://raw.githubusercontent.com/wxilejun/bt/master/img/mit.svg)
+
 > **申明，开源项目受MIT协议保护**
 >
 > **切勿修改版权信息进行二次发布
