@@ -1,6 +1,6 @@
 # 宝塔专业版
-![mit.svg](http://wxilejun.github.io/bt/img/mit.svg)
-![qqqun.svg](http://wxilejun.github.io/bt/img/qqqun.svg)
+![mit.svg](https://wxilejun.github.io/bt/img/mit.svg)
+![qqqun.svg](https://wxilejun.github.io/bt/img/qqqun.svg)
 
 > **申明，开源项目受MIT协议保护**
 >
