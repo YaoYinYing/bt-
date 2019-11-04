@@ -15,6 +15,3 @@ wget https://raw.githubusercontent.com/wxilejun/bt-/master/install_bt5.9.sh -O i
 ```
 # License Mit协议
 * **请遵循MIT协议来使用开源程序，后果自负**
-
-# 乐爱瑞云
-* *[特价VPS](http://yloli.cn)*
