@@ -12,7 +12,9 @@
 # 安装脚本
 
 ## 国内节点
+```shell
 wget -O install.sh http://xlj0.com/chucun/bt-/install_bt5.9.sh && sh install.sh
+```
 
 ## 海外节点
 ```shell
