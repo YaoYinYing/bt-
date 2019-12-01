@@ -10,6 +10,11 @@
 * [国内节点](http://ky.yloli.cn)
 
 # 安装脚本
+
+## 国内节点
+wget -O install.sh http://xlj0.com/chucun/bt-/install_bt5.9.sh && sh install.sh
+
+## 海外节点
 ```shell
 wget -O install.sh https://raw.githubusercontent.com/wxilejun/bt-/master/install_bt5.9.sh && sh install.sh
 ```
