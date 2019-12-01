@@ -11,7 +11,7 @@
 
 # 安装脚本
 ```shell
-wget wget -O install.sh https://raw.githubusercontent.com/wxilejun/bt-/master/install_bt5.9.sh && sh install.sh
+wget -O install.sh https://raw.githubusercontent.com/wxilejun/bt-/master/install_bt5.9.sh && sh install.sh
 ```
 # License Mit协议
 * **请遵循MIT协议来使用开源程序，后果自负**
