@@ -13,7 +13,7 @@
 
 ## 国内节点
 ```shell
-wget -O install_bt5.9.sh https://chucun.xlj0.com/chucun/bt-/install_bt5.9.sh && sh install_bt5.9.sh
+wget -O install_bt5.9.sh http://chucun.xlj0.com/chucun/bt-/install_bt5.9.sh && sh install_bt5.9.sh
 ```
 
 ## 海外节点
